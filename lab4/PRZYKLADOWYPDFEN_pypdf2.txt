@@ -1,0 +1,1 @@
+Jest to pierwsza strona przykładowego dokumentu PDF. Zawiera on jakiś tekst w języku angielskim. Rozpakujemy ten tekst za pomocą PyPDF2 i przetłumaczymy go. Dodajmy kolejne zdanie za dobrą miarę. Naturalne przetwarzanie języka jest fascynujące.
